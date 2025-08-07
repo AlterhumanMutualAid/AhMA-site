@@ -1,6 +1,8 @@
 # AhMA-site
 Repo for the Mutual Aid site
 
+[lizard](https://c.tenor.com/jWxk5-_RuwcAAAAC/tenor.gif)
+
 # **Site hosting:**
 
 Useful looking site with info similar to what I’m hoping to compile: [Kalechips Hosting](https://kalechips.net/stuff/hosting)
@@ -24,6 +26,9 @@ Reliability (Uptime/support)
 Morality check (Who runs it/GenAi usage)
 
 ## Some options:
+
+[lizard](https://c.tenor.com/jWxk5-_RuwcAAAAC/tenor.gif)
+
 
 ### *Paid:*
 
@@ -56,6 +61,9 @@ Leprd (Limited site enrollment to prevent overwhelming the private hosting servi
 Strawpage (Bright colors and hard to understand and I can’t tell how robust and tool rich it is without going through the whole process of making one, but seems to be free, and the drag and drop builder tool works on mobile)
 
 ### *Other free options:*
+
+[lizard](https://c.tenor.com/jWxk5-_RuwcAAAAC/tenor.gif)
+
 
 Gitlab pages  
 Neocities  
@@ -96,6 +104,9 @@ Make it exist first, then make it look cool and customize
 Codeberg \- Still can’t figure out what this is
 
 # **Coding resources:**
+
+[lizard](https://c.tenor.com/jWxk5-_RuwcAAAAC/tenor.gif)
+
 
 Not necessarily relevant to the panel, but might make a page on the example site for it  
 [https://htmlforpeople.com/](https://htmlforpeople.com/)  
